@@ -25,4 +25,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|test|
