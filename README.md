@@ -16,8 +16,12 @@ list which are labeled with a name and image.
 |               Name               |                 UUID                   |                     Image                  |
 |:--------------------------------:|:--------------------------------------:|:------------------------------------------:|
 |               Wave               |  4c8ae710-df2e-47cd-814d-cc7bf21a3d67  |            ![](./images/wave.png)          |
-|            Simple Clap           |  9a469a61-c83b-4ba9-b507-bdbe64430582  |         ![](./images/simple_clap.png)      |
+|            Simple Clap           |  9a469a61-c83b-4ba9-b507-bdbe64430582  |        ![](./images/simple_clap.png)       |
 |            Over There!           |  ce5c0300-7f03-455d-aaf1-352e4927b54d  |         ![](./images/over_there.png)       |
+|            The Pickaxe           |  ce5c0300-7f03-455d-aaf1-352e4927b54d  |        ![](./images/the_pickaxe.png)       |
+|          Diamonds To You!        |  86b34976-8f41-475b-a386-385080dc6e83  |       ![](./images/diamonds_to_you.png)    |
+|            The Hammer            |  7cec98d8-55cc-44fe-b0ae-2672b0b2bd37  |         ![](./images/the_hammer.png)       |
+
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -25,9 +29,7 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|7cec98d8-55cc-44fe-b0ae-2672b0b2bd37|
 |42fde774-37d4-4422-b374-89ff13a6535a|
-|86b34976-8f41-475b-a386-385080dc6e83|
 |6d9f24c0-6246-4c92-8169-4648d1981cbb|
 |4c8ae710-df2e-47cd-814d-cc7bf21a3d67|
 |18891e6c-bb3d-47f6-bc15-265605d86525|
