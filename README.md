@@ -47,6 +47,7 @@ list which are labeled with a name and image.
 |            Golf Clap             |  434489fd-ed42-4814-961a-df14161d67e0  |       ![](./images/golf_clap.png)          |
 |           Foot Stomp             |  13334afa-bd66-4285-b3d9-d974046db479  |      ![](./images/foot_stomp.png)          |
 |             Bored                |  7a314ecf-f94c-42c0-945f-76903c923808  |        ![](./images/bored.png)             |
+|           Big Chuckles           |  819f2f36-2a16-440c-8e46-94c6b003a2e0  |      ![](./images/big_chuckles.png)        |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -54,4 +55,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|819f2f36-2a16-440c-8e46-94c6b003a2e0|
