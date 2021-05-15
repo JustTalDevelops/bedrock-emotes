@@ -42,10 +42,11 @@ list which are labeled with a name and image.
 |           Disappointed           |  a98ea25e-4e6a-477f-8fc2-9e8a18ab7004  |      ![](./images/disappointed.png)        |
 |             Facepalm             |  402efb2d-6607-47f2-b8e5-bc422bcd8304  |        ![](./images/facepalm.png)          |
 |            Rebooting             |  a602063f-1ded-4959-b978-b5ae7f353536  |       ![](./images/rebooting.png)          |
+|          Cowpoke Dancin'         |  f99ccd35-ebda-4122-b458-ff8c9f9a432f  |    ![](./images/cowpoke_dancin.png)        |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
 These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
-|:----------------------------------:||f99ccd35-ebda-4122-b458-ff8c9f9a432f|
+|:----------------------------------:|
