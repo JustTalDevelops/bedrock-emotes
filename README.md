@@ -1,5 +1,6 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 28 of the 47 emotes in Minecraft.
+Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
 
 # How do you get these emote IDs?
 Emotes are sent by the client using the Emote packet and are broadcasted to other players with the same UUID. These UUIDs are mapped to emote animations client side. However, we can steal these emote IDs by using a gophertunnel client. Once we steal these emote IDs, we upload them to this repository using the bedrock-emotes account and mark them as unidentified, after which users of bedrock-emotes can identify these emotes with a proper image and name.
