@@ -43,6 +43,9 @@ list which are labeled with a name and image.
 |             Facepalm             |  402efb2d-6607-47f2-b8e5-bc422bcd8304  |        ![](./images/facepalm.png)          |
 |            Rebooting             |  a602063f-1ded-4959-b978-b5ae7f353536  |       ![](./images/rebooting.png)          |
 |          Cowpoke Dancin'         |  f99ccd35-ebda-4122-b458-ff8c9f9a432f  |    ![](./images/cowpoke_dancin.png)        |
+|            Golf Clap             |  434489fd-ed42-4814-961a-df14161d67e0  |       ![](./images/golf_clap.png)          |
+|           Foot Stomp             |  13334afa-bd66-4285-b3d9-d974046db479  |      ![](./images/foot_stomp.png)          |
+|             Bored                |  7a314ecf-f94c-42c0-945f-76903c923808  |        ![](./images/bored.png)             |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
