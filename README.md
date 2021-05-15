@@ -36,6 +36,10 @@ list which are labeled with a name and image.
 |            Ghast Dance           |  5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e  |        ![](./images/ghast_dance.png)       |
 |           Playing Zombie         |  5d644007-3cdf-4246-b4ca-cfd7a4318a1c  |      ![](./images/playing_zombie.png)      |
 |             Sad Sigh             |  98a68056-e025-4c0f-a959-d6e330ccb5f5  |         ![](./images/sad_sigh.png)         |
+|            Surrendering          |  daeaaa6f-db91-4461-8617-400c5d1b8646  |      ![](./images/surrendering.png)        |
+|               Bow                |  ddfa6f0e-88ca-46de-b189-2bd5b18e96a0  |          ![](./images/bow.png)             |
+|              Shrug               |  4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a  |         ![](./images/shrug.png)            |
+|           Disappointed           |  a98ea25e-4e6a-477f-8fc2-9e8a18ab7004  |      ![](./images/disappointed.png)        |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -43,7 +47,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|daeaaa6f-db91-4461-8617-400c5d1b8646|
-|ddfa6f0e-88ca-46de-b189-2bd5b18e96a0|
-|4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a|
-|a98ea25e-4e6a-477f-8fc2-9e8a18ab7004|
