@@ -40,6 +40,8 @@ list which are labeled with a name and image.
 |               Bow                |  ddfa6f0e-88ca-46de-b189-2bd5b18e96a0  |          ![](./images/bow.png)             |
 |              Shrug               |  4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a  |         ![](./images/shrug.png)            |
 |           Disappointed           |  a98ea25e-4e6a-477f-8fc2-9e8a18ab7004  |      ![](./images/disappointed.png)        |
+|             Facepalm             |  402efb2d-6607-47f2-b8e5-bc422bcd8304  |        ![](./images/facepalm.png)          |
+|            Rebooting             |  a602063f-1ded-4959-b978-b5ae7f353536  |       ![](./images/rebooting.png)          |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -47,5 +49,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|402efb2d-6607-47f2-b8e5-bc422bcd8304|
-|a602063f-1ded-4959-b978-b5ae7f353536|
