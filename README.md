@@ -1,5 +1,5 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 34 of the 47 emotes in Minecraft.
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 36 of the 47 emotes in Minecraft.
 Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
 
 # How do you get these emote IDs?
