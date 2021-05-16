@@ -1,5 +1,5 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 32 of the 47 emotes in Minecraft.
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 34 of the 47 emotes in Minecraft.
 Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
 
 # How do you get these emote IDs?
@@ -45,9 +45,11 @@ list which are labeled with a name and image.
 |            Rebooting             |  a602063f-1ded-4959-b978-b5ae7f353536  |       ![](./images/rebooting.png)          |
 |          Cowpoke Dancin'         |  f99ccd35-ebda-4122-b458-ff8c9f9a432f  |    ![](./images/cowpoke_dancin.png)        |
 |            Golf Clap             |  434489fd-ed42-4814-961a-df14161d67e0  |       ![](./images/golf_clap.png)          |
-|           Foot Stomp             |  13334afa-bd66-4285-b3d9-d974046db479  |      ![](./images/foot_stomp.png)          |
+|           Foot Stomp!            |  13334afa-bd66-4285-b3d9-d974046db479  |      ![](./images/foot_stomp.png)          |
 |             Bored                |  7a314ecf-f94c-42c0-945f-76903c923808  |        ![](./images/bored.png)             |
 |           Big Chuckles           |  819f2f36-2a16-440c-8e46-94c6b003a2e0  |      ![](./images/big_chuckles.png)        |
+|            Ahh Choo!             |  f9345ebb-4ba3-40e6-ad9b-6bfb10c92890  |        ![](./images/ahh_choo.png)          |
+|        Dancing Like Toothless    |  a12252fa-4ec8-42e0-a7d0-d44fbc90d753  |  ![](./images/dancing_like_toothless.png)  |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
