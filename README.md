@@ -50,10 +50,12 @@ list which are labeled with a name and image.
 |           Big Chuckles           |  819f2f36-2a16-440c-8e46-94c6b003a2e0  |      ![](./images/big_chuckles.png)        |
 |            Ahh Choo!             |  f9345ebb-4ba3-40e6-ad9b-6bfb10c92890  |        ![](./images/ahh_choo.png)          |
 |        Dancing Like Toothless    |  a12252fa-4ec8-42e0-a7d0-d44fbc90d753  |  ![](./images/dancing_like_toothless.png)  |
+|          Victory Cheer           |  d0c60245-538e-4ea2-bdd4-33477db5aa89  |      ![](./images/victory_cheer.png)       |
+|        Acting Like A Dragon      |  c2a47805-c792-4882-a56d-17c80b6c57a8  |  ![](./images/acting_like_a_dragon.png)    |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
 These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
-|:----------------------------------:||f9345ebb-4ba3-40e6-ad9b-6bfb10c92890||a12252fa-4ec8-42e0-a7d0-d44fbc90d753|
+|:----------------------------------:|
