@@ -1,5 +1,5 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 36 of the 47 emotes in Minecraft.
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 37 of the 47 emotes in Minecraft.
 Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
 
 # How do you get these emote IDs?
@@ -52,6 +52,7 @@ list which are labeled with a name and image.
 |        Dancing Like Toothless    |  a12252fa-4ec8-42e0-a7d0-d44fbc90d753  |  ![](./images/dancing_like_toothless.png)  |
 |          Victory Cheer           |  d0c60245-538e-4ea2-bdd4-33477db5aa89  |      ![](./images/victory_cheer.png)       |
 |        Acting Like A Dragon      |  c2a47805-c792-4882-a56d-17c80b6c57a8  |  ![](./images/acting_like_a_dragon.png)    |
+|            Chatting              |  59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5  |        ![](./images/chatting.png)          |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -59,4 +60,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5|
