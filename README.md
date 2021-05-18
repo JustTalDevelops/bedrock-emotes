@@ -53,10 +53,11 @@ list which are labeled with a name and image.
 |          Victory Cheer           |  d0c60245-538e-4ea2-bdd4-33477db5aa89  |      ![](./images/victory_cheer.png)       |
 |        Acting Like A Dragon      |  c2a47805-c792-4882-a56d-17c80b6c57a8  |  ![](./images/acting_like_a_dragon.png)    |
 |            Chatting              |  59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5  |        ![](./images/chatting.png)          |
+|             Giddy                |  738497ce-539f-4e06-9a03-dc528506a468  |         ![](./images/giddy.png)            |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
 These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
-|:----------------------------------:||738497ce-539f-4e06-9a03-dc528506a468|
+|:----------------------------------:|
