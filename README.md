@@ -59,4 +59,4 @@ These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
 These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
-|:----------------------------------:|
+|:----------------------------------:||738497ce-539f-4e06-9a03-dc528506a468|
