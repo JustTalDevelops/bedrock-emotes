@@ -54,10 +54,11 @@ list which are labeled with a name and image.
 |        Acting Like A Dragon      |  c2a47805-c792-4882-a56d-17c80b6c57a8  |  ![](./images/acting_like_a_dragon.png)    |
 |            Chatting              |  59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5  |        ![](./images/chatting.png)          |
 |             Giddy                |  738497ce-539f-4e06-9a03-dc528506a468  |         ![](./images/giddy.png)            |
+|        Using Jedi Mind Trick     |  4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044  |  ![](./images/using_jedi_mind_trick.png)   |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
 These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
-|:----------------------------------:||4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044|
+|:----------------------------------:|
