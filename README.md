@@ -1,5 +1,5 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 39 of the 47 emotes in Minecraft.
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 43 of the 47 emotes in Minecraft.
 Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
 
 # How do you get these emote IDs?
@@ -55,6 +55,21 @@ list which are labeled with a name and image.
 |            Chatting              |  59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5  |        ![](./images/chatting.png)          |
 |             Giddy                |  738497ce-539f-4e06-9a03-dc528506a468  |         ![](./images/giddy.png)            |
 |        Using Jedi Mind Trick     |  4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044  |  ![](./images/using_jedi_mind_trick.png)   |
+|            Over Here             |  71721c51-b7d1-46b1-b7ea-eb4c4126c3db  |       ![](./images/over_here.png)          |
+|          Ballerina Twirl         |  79452f7e-ffa0-470f-8283-f5063348471d  |     ![](./images/ballerina_twirl.png)      |
+|            Groovin'              |  d863b9cc-9f8c-498b-a8a3-7ebd542cb08e  |        ![](./images/groovin.png)           |
+|             ROFL                 |  6f82688e-e549-408c-946d-f8e99b91808d  |         ![](./images/rofl.png)             |
+
+# Missing Emotes
+These are all emotes that we know exist but are missing.
+If you have an emote ID for an emote here, you should PR an update.
+
+|               Name               |                     Image                  |
+|:--------------------------------:|:------------------------------------------:|
+|         Calling A Dragon         |    ![](./images/calling_a_dragon.png)      |
+|        Waving Like C-3PD         |  ![](./images/waving_like_c_three_pd.png)  |
+|            Thinking              |        ![](./images/thinking.png)          |
+|          Feeling Sick            |      ![](./images/feeling_sick.png)        |
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
