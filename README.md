@@ -1,6 +1,5 @@
 # bedrock-emotes
-A collection of Bedrock Edition emote UUIDs found through gophertunnel that has 43 of the 47 emotes in Minecraft.
-Feel free to PR more emotes that aren't already on the list. The goal is to have all 47 identified.
+A collection of Bedrock Edition emote UUIDs found through gophertunnel that has all of the emotes currently in Minecraft.
 
 # How do you get these emote IDs?
 Emotes are sent by the client using the Emote packet and are broadcasted to other players with the same UUID. These UUIDs are mapped to emote animations client side. However, we can steal these emote IDs by using a gophertunnel client. Once we steal these emote IDs, we upload them to this repository using the bedrock-emotes account and mark them as unidentified, after which users of bedrock-emotes can identify these emotes with a proper image and name.
@@ -59,17 +58,13 @@ list which are labeled with a name and image.
 |          Ballerina Twirl         |  79452f7e-ffa0-470f-8283-f5063348471d  |     ![](./images/ballerina_twirl.png)      |
 |            Groovin'              |  d863b9cc-9f8c-498b-a8a3-7ebd542cb08e  |        ![](./images/groovin.png)           |
 |             ROFL                 |  6f82688e-e549-408c-946d-f8e99b91808d  |         ![](./images/rofl.png)             |
+|         Calling A Dragon         |  9f5d4732-0513-4a0a-8ea2-b6b8d7587e74  |    ![](./images/calling_a_dragon.png)      |
+|        Waving Like C-3PO         |  c2d6091d-9f91-4a9e-badd-ef8481353cb0  |  ![](./images/waving_like_c_three_pd.png)  |
+|            Thinking              |  20bcb500-af82-4c2f-9239-e78191c61375  |        ![](./images/thinking.png)          |
+|          Feeling Sick            |  bb6f1764-2b0b-4a3a-adfd-3334627cdee4  |      ![](./images/feeling_sick.png)        |
 
 # Missing Emotes
-These are all emotes that we know exist but are missing.
-If you have an emote ID for an emote here, you should PR an update.
-
-|               Name               |                     Image                  |
-|:--------------------------------:|:------------------------------------------:|
-|         Calling A Dragon         |    ![](./images/calling_a_dragon.png)      |
-|        Waving Like C-3PD         |  ![](./images/waving_like_c_three_pd.png)  |
-|            Thinking              |        ![](./images/thinking.png)          |
-|          Feeling Sick            |      ![](./images/feeling_sick.png)        |
+None yet!
 
 # Unidentified Emotes
 These are a list of emotes scraped by the bedrock-emotes gophertunnel bot.
@@ -77,4 +72,3 @@ These have not been manually checked and have no assigned name or image.
 
 |                UUID                |
 |:----------------------------------:|
-|c4b5b251-24d3-43eb-9c05-46be246aeefb|
