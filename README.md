@@ -11,7 +11,7 @@ A public collection of all known emotes can be very helpful to many developers.
 
 # Emotes
 
-|          Name          |                 UUID                 |                                                                              Image                                                                               |
+| Name                   | UUID                                 | Image                                                                                                                                                            |
 |------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Abduction?             | 18891e6c-bb3d-47f6-bc15-265605d86525 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cf2b8ada-6453-4c97-b70f-446844962005/beam_me_up_thumbnail_0.png)                        |
 | Acting Like a Dragon   | c2a47805-c792-4882-a56d-17c80b6c57a8 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/402c726e-0b88-45a1-aec7-26e754c026e9/acting_like_a_dragon_thumbnail_0.png)              |
@@ -70,6 +70,8 @@ A public collection of all known emotes can be very helpful to many developers.
 | Offering               | 21e0054a-5bf4-468d-bfc4-fc4b49bd44ac | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/03beb174-30ae-40da-aac8-8b1c1e65e6f8/proposal_thumbnail_0.png)                          |
 | Over Here!             | 71721c51-b7d1-46b1-b7ea-eb4c4126c3db | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1e3a08bb-c5e9-4f6c-b675-82ab7357d93c/lookatme_thumbnail_0.png)                          |
 | Over There!            | ce5c0300-7f03-455d-aaf1-352e4927b54d | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/dcec2666-c46e-4be6-8982-b3c041958cff/communication_point_thumbnail_0.png)               |
+| Peekaboo               | 2ecc0fd1-312b-4664-9bfa-a06429838706 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/92ee0603-9e65-498f-8c17-988687896146/peekaboo_thumbnail_0.png)                          |
+| Playing Dead           | 9d4019d0-db3f-4859-a579-f6c37532d2a6 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e42b919e-90eb-49cb-aebd-217bf7616824/playing_dead_thumbnail_0.png)                      |
 | Playing Zombie         | 5d644007-3cdf-4246-b4ca-cfd7a4318a1c | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1e161c5b-5b0a-4763-bee8-1ad1012e1937/imitate_zombie_thumbnail_0.png)                    |
 | Posing Like a Hero     | 7102c0f7-6113-44f5-b37c-4e94841b0e81 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/27540224-b1ca-4565-9bc3-db89089b8bb9/animation.benten_hero_thumbnail_0.png)             |
 | ROFL                   | 6f82688e-e549-408c-946d-f8e99b91808d | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/650bbf3d-702c-4058-8ead-22aa7f1c749c/emotion_rofl_thumbnail_0.png)                      |
@@ -80,6 +82,7 @@ A public collection of all known emotes can be very helpful to many developers.
 | Saluting               | 1ea5f771-827d-408d-ae8e-1af00d7aa416 | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ed9bca8d-4805-4fb1-92df-5de4d8bfe157/salute_thumbnail_0.png)                            |
 | Shrug                  | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/639fc564-ac65-4325-8dbb-03aa6c3ad30c/communication_shrug_thumbnail_0.png)               |
 | Shy Giggling           | f1e18201-729d-472d-9e4f-5cdd7f6bba0c | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0a598772-bd36-45df-9698-b6d8c5dbe659/communication_giggle_thumbnail_0.png)              |
+| Sid Dance              | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e717813a-b9dc-4b05-a0da-d932bf31d7b7/sid_dance_thumbnail_0.png)                         |
 | Simple Clap            | 9a469a61-c83b-4ba9-b507-bdbe64430582 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0af89c71-e494-4f79-bb8c-820df77df93d/basic_clap_thumbnail_0.png)                        |
 | Slimin'                | 70831936-d97d-48fe-a7e7-d8894e7c5507 | ![](https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9d2c8a60-d370-4458-a2d4-a9c70481b6f8/animation.action_slime_jump_thumbnail_0.png)       |
 | Sonic-Finger Wagging   | e8a91ad4-6f7a-479e-9556-e1a7c058351b | ![](https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/18ace5a7-c563-4019-82c7-d5e93b52b3a9/sonic_tsk_tsk_thumbnail_0.png)                     |
